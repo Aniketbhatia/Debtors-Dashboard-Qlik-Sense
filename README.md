@@ -1,4 +1,5 @@
 **📊 Debtors Dashboard – Qlik Sense**
+
 A dynamic and interactive Qlik Sense dashboard designed to monitor outstanding receivables, track overdue payments, and analyze client-level financial health across various time periods.
 
 **📄 Description**
